@@ -4,7 +4,7 @@
 <p align="center"><b><font size="7">I'm Saurabh Siddharth </font></b></p>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+Front-End+Web+Developer;Loves+Traveling+and+Exploring)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+Front-End+Web+Developer;Currently+Learning+Competitive+Programming;Loves+Traveling+and+Exploring)](https://git.io/typing-svg)
   
   </div>
 
