@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sau2001rabh" alt="Sau2001rabh" /> </p>
-<h1 align="center">Hi there!!  👋</h1>
+<h1 align="center">Hi! 👋</h1>
 <br>
 <p align="center"><b><font size="7">I'm Saurabh Siddharth </font></b></p>
 <div align="center">
