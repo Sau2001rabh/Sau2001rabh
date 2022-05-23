@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   
-  [![Amiyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Sau2001rabh&show_icons=true&theme=merko)](https://github.com/Sau2001rabh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sau2001rabh&layout=compact&theme=merko)](https://github.com/Sau2001rabh/github-readme-stats)
+  [![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=Sau2001rabh&show_icons=true&theme=merko)](https://github.com/Sau2001rabh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sau2001rabh&layout=compact&theme=merko)](https://github.com/Sau2001rabh/github-readme-stats)
   
   
   </p>
