@@ -2,13 +2,9 @@
 <h1 align="center">Hi! 👋</h1>
 <br>
 <p align="center"><b><font size="7">I'm Saurabh Siddharth </font></b></p>
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+Front-End+Web+Developer;Currently+Learning+CP;Love+Traveling+and+Exploring)](https://git.io/typing-svg)
-  
-  </div>
 
-<p align="center"><i>I am a Front End Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a Integrated Dual degree in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
+
+<p align="center"><i>I am a Software Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for common people or developer communities. Pursing Integrated Dual degree in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
 <br>
 <br>
 
