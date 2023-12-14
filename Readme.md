@@ -4,7 +4,7 @@
 <p align="center"><b><font size="7">I'm Saurabh Siddharth </font></b></p>
 
 
-<p align="center"><i>I am a Software Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for common people or developer communities. Pursing Integrated Dual degree in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
+<p align="center"><i>I am a Software Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for common people or developer communities. Currently, I am pursuing an Integrated Dual degree in Metallurgical Engineering from the Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe in writing a program that can be understood and improved, not a program that makes circuits work only.</i></p>
 <br>
 <br>
 
